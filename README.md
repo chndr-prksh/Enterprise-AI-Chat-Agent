@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🚀 Enterprise AI Chat: The Team Knowledge Orchestrator
 
-# Run and deploy your AI Studio app
+Enterprise AI Chat is a production-grade, multi-user Knowledge Base (KB) platform designed to turn static documents into dynamic, conversational intelligence. Unlike standard chatbots, it uses Metadata-Aware RAG (Retrieval-Augmented Generation) to provide highly contextualized answers based on your specific team's brand guidelines, product docs, and persona maps.
 
-This contains everything you need to run your app locally.
+✨ Key Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1T24utt32uxJFIAToafFe3VG_DA5HoF8o
+👥 Multi-User Environment: Separate private chat histories for users with a shared "Team Wisdom" layer.
+🧠 Metadata-Aware RAG: Every document is tagged with its type (Brand, Persona, Product), allowing the AI to prioritize the right source for the right question.
+🔄 Shared Learning Loop: Positive feedback (thumbs up) updates a global "Shared Insights" context, allowing the model to "learn" team-specific terminology and corrections over time.
+📂 Intelligent Uploads: Automatic suggestions for document types (e.g., Feature Sheets, Objection Handling) help teams build robust knowledge bases from scratch.
+🌐 Hybrid Intelligence: Toggle between deep document analysis and real-time Web Search using Google Search Grounding.
+🎨 Premium UI/UX: A sleek, high-performance dark theme built with Tailwind CSS and Lucide icons.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🛠️ Tech Stack
+Core: React 19 (Hooks, Context, Strict Mode)
+AI Engine: Google Gemini (Flash 2.5 for speed, Pro 3.0 for complex reasoning)
+Persistence: IndexedDB (Client-side) with a Node.js/Express Orchestrator stub.
+Styling: Tailwind CSS + Inter Font.
+Rich Text: React-Markdown with GFM (GitHub Flavored Markdown) support.
