@@ -1,0 +1,5 @@
+{
+  "name": "Shape AI Chat",
+  "description": "A production-ready React application for managing knowledge bases and chatting with documents using Gemini's long-context capabilities and File Search concepts.",
+  "requestFramePermissions": []
+}
