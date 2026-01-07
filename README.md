@@ -4,6 +4,7 @@
 Enterprise AI Chat is a production-grade, multi-user Knowledge Base (KB) platform designed to turn static documents into dynamic, conversational intelligence. Unlike standard chatbots, it uses Metadata-Aware RAG (Retrieval-Augmented Generation) to provide highly contextualized answers based on your specific team's brand guidelines, product docs, and persona maps.
 
 
+
 ✨ Key Features
 
 
@@ -18,6 +19,8 @@ Enterprise AI Chat is a production-grade, multi-user Knowledge Base (KB) platfor
 🌐 Hybrid Intelligence: Toggle between deep document analysis and real-time Web Search using Google Search Grounding.
 
 🎨 Premium UI/UX: A sleek, high-performance dark theme built with Tailwind CSS and Lucide icons.
+
+
 
 🛠️ Tech Stack
 
