@@ -20,6 +20,7 @@ Enterprise AI Chat is a production-grade, multi-user Knowledge Base (KB) platfor
 🎨 Premium UI/UX: A sleek, high-performance dark theme built with Tailwind CSS and Lucide icons.
 
 🛠️ Tech Stack
+
 Core: React 19 (Hooks, Context, Strict Mode)
 
 AI Engine: Google Gemini (Flash 2.5 for speed, Pro 3.0 for complex reasoning)
