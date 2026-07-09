@@ -32,4 +32,4 @@ Persistence: IndexedDB (Client-side) with a Node.js/Express Orchestrator stub.
 
 Styling: Tailwind CSS + Inter Font.
 
-Rich Text: React-Markdown with GFM (GitHub Flavored Markdown) support..
+Rich Text: React-Markdown with GFM (GitHub Flavored Markdown) support.
